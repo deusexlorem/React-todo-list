@@ -1,0 +1,21 @@
+.addButton{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    color: rgba(1, 1, 86, 0.607);
+    stroke: rgba(1, 1, 86, 0.607);
+    transition: .3s;
+    max-width: fit-content;
+    padding: 5px;
+}
+.addButton p{
+    margin: 0;
+
+    font-size: 20px;
+    font-weight: 400;   
+}
+.addButton:hover{  
+    stroke: rgb(1, 1, 86);
+    color: rgb(1, 1, 86);
+    cursor: pointer;
+}
