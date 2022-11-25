@@ -2,7 +2,7 @@
   "name": "test-task-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "deusexlorem.github.io/React-todo-list",
+  "homepage": "https://github.com/deusexlorem/React-todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
